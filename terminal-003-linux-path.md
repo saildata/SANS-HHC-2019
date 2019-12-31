@@ -3,7 +3,7 @@
 ## Inside Hermey Hall
 
 #### Objectives
-* [ ] Get a listing (ls) of your current directory
+* [x] Get a listing (ls) of your current directory
 
 #### Steps
 
