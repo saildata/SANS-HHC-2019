@@ -20,16 +20,9 @@
 
 1. Hints: walk around and talk to elves. Possible (smaller) challenges?
 
-2. Found elf: Tangle Coalbox (East of Santa, Dormitory building)
-  - Needs help accessing keypad
-  - `Frosty Keypad Hints: One digit is repeated once, it's prime, and you can see which keys were used`
-  - Looks like `1` `3` and `7` are used more
-  - Common numbers in "leet speak" (e.g. `1337`)
-  - Probably 4 digits
-  - Tried: `1234` `1337` `3137` `3371` `7331`
-  - See https://calculla.com/prime_number
-  - Solution: `7331` `LEET/1337` backwards?
-  - Achievement: `You have completed the Frosty Keypad challenge!`
+2. Walked to Dormitory
+  - Found elf: Tangle Coalbox
+  - Found challenge: [Frosty Keypad](challenge-001-frosty-keypad.md/)
 
 
 3. Entered Dormitory (East of Santa, through keypad)
@@ -41,6 +34,11 @@
     - Mentions game
     - "If you get stuck, check out this year's talks"
     - Provides new hint, [YT Web Apps: A Trailhead](https://youtu.be/0T6-DQtzCgM)
+  - Found [Holiday Hack Trail game (terminal-005)](terminal-005-holiday-hack-trail.md/)
+  - Found part 3 of narrative (last room in hall)
+  - Found challenge: [Bitting Cutter](challenge-002-bitting-cutter.md/)
+  - Entered closet (last room in hall)
+  - Found challenge: [Bitting keyhole](challenge-003-bitting-keyhole.md/)
 
 
 4. Entered KringleCon (North of Santa, Student Union)
