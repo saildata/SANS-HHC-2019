@@ -29,9 +29,15 @@
 
   - Common numbers in "leet speak" (e.g. `1337`)
 
-  - Tried: `1234` `137` `1337` `3137` `3371`
+  - Probably 4 digits
+
+  - Tried: `1234` `1337` `3137` `3371` `7331`
 
   - See https://calculla.com/prime_number
+
+  - Solution: `7331` `LEET/1337` backwards?
+
+  - Achievement: `You have completed the Frosty Keypad challenge!`
 
 
 3. Entered KringleCon (North of Santa, Student Union)
