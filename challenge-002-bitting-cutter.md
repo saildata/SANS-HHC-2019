@@ -19,3 +19,5 @@
 
   #### Achievements
   `Congratulations! You have completed the Get Access To The Steam Tunnels challenge!`
+
+4. Go through the hall and down the tunnels to the elf, `Krampus` standing next to a terminal challenge. Talk to him and then submit the answer to objective #7.
