@@ -108,3 +108,12 @@ The attacks don't stop! Can you help identify the IP address of the malware-infe
 
 > [Difficulty: 3/5]
 Access https://splunk.elfu.org/ as `elf` with password `elfsocks`. What was the message for Kent that the adversary embedded in this attack? The SOC folks at that link will help you along! *For hints on achieving this objective, please visit the Laboratory in Hermey Hall and talk with Prof. Banas.*
+
+---
+
+* [x] 7. Get Access To The Steam Tunnels
+
+> [Difficulty: 3/5]
+Gain access to the steam tunnels. Who took the turtle doves? Please tell us their first and last name. *For hints on achieving this objective, please visit Minty's dorm room and talk with Minty Candy Cane.*
+
+[Solution: See challenge-002-bitting-cutter.md](challenge-002-bitting-cutter.md/)
