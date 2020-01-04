@@ -17,8 +17,12 @@
 
 > Find the missing turtle doves.
 
+1. Hints: walk around and talk to elves. Solve other challenges? Status for challenges outside of "objectives":
+  - 🗹 [Frosty Keypad](challenge-001-frosty-keypad.md/)
+  - ☐ [Smart Braces (terminal-002)](terminal-002-iptables.md/)
+  - 🗹 [Linux Path (terminal-003)](terminal-003-linux-path.md/)
+  - ☐ [Holiday Hack Trail game (terminal-005)](terminal-005-holiday-hack-trail.md/)
 
-1. Hints: walk around and talk to elves. Possible (smaller) challenges?
 
 2. Walked to Dormitory
   - Found elf: Tangle Coalbox
@@ -38,7 +42,7 @@
   - Found part 3 of narrative (last room in hall)
   - Found challenge: [Bitting Cutter](challenge-002-bitting-cutter.md/)
   - Entered closet (last room in hall)
-  - Found challenge: [Bitting keyhole](challenge-003-bitting-keyhole.md/)
+  - Entered Steam Tunnels
 
 
 4. Entered KringleCon (North of Santa, Student Union)
